@@ -31,6 +31,9 @@ public class SeleniumTask {
 	String current3 = driver.getCurrentUrl();
 	System.out.println(current3);
 	
+	  //clonning process
+	 //Action
+			
 	
 	
 	
